@@ -1,0 +1,10 @@
+.MuiStack-root.watermark::after {
+    content: "AI Buddy can make mistakes. Consider checking important information.";
+    font-size: small;
+    color: rgb(159, 159, 159);
+    visibility: visible !important;
+    /* Other CSS styles for the pseudo-element */
+}
+a[href*='https://github.com/Chainlit/chainlit'] {
+    visibility: hidden;
+}

@@ -1,0 +1,1 @@
+docker build -t copilot_ui . && docker run -p 8000:8000 -it copilot_ui

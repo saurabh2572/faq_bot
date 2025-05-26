@@ -1,0 +1,6 @@
+azure-cognitiveservices-speech==1.42.0
+chainlit==2.2.0
+pydantic==2.10.1
+numpy==2.2.3
+azure-cosmos==4.9.0
+mlflow==2.21.2
